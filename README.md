@@ -1,3 +1,4 @@
 # RealityKitXs
 
-A description of this package.
+Collection of extensions to RealityKit 
+
